@@ -1,0 +1,2 @@
+# LZExtensionTool
+MyToolAndExtension
